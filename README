@@ -1,0 +1,13 @@
+To make this work, get the appropriate auth cookie from your browser dev panel,
+then save it in cookies.txt, it should look something like this:
+
+    # HTTrack Website Copier Cookie File
+    # This file format is compatible with Netscape cookies
+    www.httrack.com	TRUE	/	FALSE	1999999999	foo	bar
+    www.primaldiet.net	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+    www.primaldiet.net	TRUE	/	FALSE	1999999999	wp_woocommerce_session_67c17532583a0c26b57dc11f777ba933	c3f574978cb436cb53a92a0efb2fa0e2%7C%7C1600962802%7C%7C1600959202%7C%7C0f423cc73f6bb01a1845d9354a6ba1a4
+    www.primaldiet.net	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	e5a6112ce3b82dda2f0ee04629a8b3f2
+    www.primaldiet.net	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+    .quantserve.com	TRUE	/	FALSE	1999999999	mc	5f6a3f12-91510-36e9e-1e2a8
+    www.primaldiet.net  TRUE    /   TRUE    1999999999  wordpress_logged_in_67c17532583a0c26b57dc11f777ba933    primalboyz2020%7C1601472895%7Cr51Lp5iqQCxhjcHssMwzsGzKe4peA2IF7NgaiI18OTx%7C86481b39c4e82d5ce590e5ae1928ed40fa369526bf043b16a79147bf031ac340	TRUE		FALSE	1999999999
+
