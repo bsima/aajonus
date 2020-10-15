@@ -11,3 +11,6 @@ then save it in cookies.txt, it should look something like this:
     .quantserve.com	TRUE	/	FALSE	1999999999	mc	5f6a3f12-91510-36e9e-1e2a8
     www.primaldiet.net  TRUE    /   TRUE    1999999999  wordpress_logged_in_67c17532583a0c26b57dc11f777ba933    primalboyz2020%7C1601472895%7Cr51Lp5iqQCxhjcHssMwzsGzKe4peA2IF7NgaiI18OTx%7C86481b39c4e82d5ce590e5ae1928ed40fa369526bf043b16a79147bf031ac340	TRUE		FALSE	1999999999
 
+Then, run the 'download.sh' script. To run it, either download httrack and copy
+the command into your terminal, or install Nix <nixos.org> and just run the
+script.
